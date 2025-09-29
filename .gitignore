@@ -1,0 +1,30 @@
+*.log
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+
+# IDE generici (opzionale ma utile)
+*.swp
+*~
+.DS_Store
+
+# File compilati Java
+*.class
+
+# JAR/WAR/EAR
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Gradle (se non usi Gradle, puoi rimuovere)
+.gradle/
+build/
+
+# Maven (se non usi Maven, puoi rimuovere)
+target/
